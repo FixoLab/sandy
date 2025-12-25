@@ -1,0 +1,4 @@
+[19-Sep-2022 02:58:45 America/Chicago] PHP Warning:  Undefined array key "name" in /home2/foysal/public_html/themeatelier.net/site-templates/sandy/php/sendmail.php on line 3
+[19-Sep-2022 02:58:45 America/Chicago] PHP Warning:  Undefined array key "email" in /home2/foysal/public_html/themeatelier.net/site-templates/sandy/php/sendmail.php on line 4
+[19-Sep-2022 02:58:45 America/Chicago] PHP Warning:  Undefined array key "subject" in /home2/foysal/public_html/themeatelier.net/site-templates/sandy/php/sendmail.php on line 5
+[19-Sep-2022 02:58:45 America/Chicago] PHP Warning:  Undefined array key "message" in /home2/foysal/public_html/themeatelier.net/site-templates/sandy/php/sendmail.php on line 6

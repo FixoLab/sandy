@@ -1,0 +1,62 @@
+a, .section-title h2 span, .typed-cursor, .media-icon i, .featured-package .primary-btn, .header .navbar-nav>li>a.active, .header .navbar-nav>li>a:hover, .header .navbar-nav>li>a:focus {
+    color: #78AC53;
+}
+a:hover, a:focus {
+    color: #6bb734;
+}
+.gredient-overlay, .overlay:before, .overlay:after, .bg-gray .featured-package, .featured-package, .blog-thumb .thumb-overlay {
+    background: #78AC53;
+    background: -webkit-linear-gradient(to left, #78AC53, #6bb734 );
+    background: -webkit-linear-gradient(right, #78AC53, #6bb734 );
+    background: linear-gradient(to left, #78AC53, #6bb734 );
+}
+.primary-btn, .header.nav-sticky, .media:hover .media-icon, .owl-theme .owl-dots .owl-dot span, .owl-theme .owl-nav [class*=owl-], .widget h3:before, .dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .scrollup, .header .nav li a:before, .header .nav li a:after {
+	background: #78AC53;
+}
+
+.primary-btn:hover, .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span, .owl-theme .owl-nav [class*=owl-]:hover, .sandy-pagination .pagination>li.active>a{
+	background:#6bb734;
+}
+.lines, .lines:before, .lines:after {
+	border-top:2px solid #78AC53;
+}
+@-webkit-keyframes color {
+    100%, 0% {
+        stroke: #78AC53;
+    }
+    40% {
+        stroke: #78AC53;
+    }
+    66% {
+        stroke: #78AC53;
+    }
+    80%,
+    90% {
+        stroke: #78AC53;
+    }
+}
+@keyframes color {
+    100%, 0% {
+        stroke: #78AC53;
+    }
+    40% {
+        stroke: #78AC53;
+    }
+    66% {
+        stroke: #78AC53;
+    }
+    80%,
+    90% {
+        stroke: #78AC53;
+    }
+}
+.media-icon, .post-thumb, .sandy-pagination .pagination>li.active>a, .avatar, .scrollup:hover, .tagcloud a{
+	border: 1px dashed #78AC53;
+}
+.blog-footer{
+	border-top:1px dashed #78AC53;
+}
+.input-box:focus,
+.textarea-box:focus{
+	border: 1px solid #78AC53;
+}
